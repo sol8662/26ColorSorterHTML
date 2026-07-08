@@ -1,5 +1,8 @@
 # HTML 단일 파일 빌드용 단계별 프롬프트 가이드
-
+- Google AI Studio >> Playground >> Code and Chat 에서 진행합니다.
+- 모델은 Gemini 3.5 Flash 사용
+- Thinking Level은 High 설정
+  
 ## (예제) 색상분류기 제작을 위한 프롬프트 예시
 - HTML 단일파일로 제작
 
