@@ -1,5 +1,5 @@
 # HTML 단일 파일 빌드용 단계별 프롬프트 가이드
-- Google AI Studio >> Playground >> Code and Chat 에서 진행합니다.
+- Google AI Studio >> Playground >> Code and Chat 에서 진행
 - 모델은 Gemini 3.5 Flash 사용
 - Thinking Level은 High 설정
   
